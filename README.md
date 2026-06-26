@@ -1,118 +1,98 @@
 <p align="center">
-  <img src="banner.jpeg" width="50%" alt="GitHub Banner"/>
+  <img src="banner.jpeg" width="100%" alt="GitHub Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Sim 👋</h1>
+<h1 align="center">Hi, I'm <b>Sim</b> 👋</h1>
 
 <p align="center">
-Computer Science Graduate • Artificial Intelligence • Machine Learning • Deep Learning
+<i>Computer Science Graduate • Artificial Intelligence • Machine Learning • Deep Learning</i>
 </p>
 
 <p align="center">
-Building intelligent systems through continuous learning and thoughtful engineering.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Meaningful+AI+Solutions.;Learning+Something+New+Every+Day.;Generative+AI+%7C+RAG+%7C+Deep+Learning."/>
+
 </p>
 
 ---
 
-## About
+# ✨ About Me
 
-I am a Computer Science graduate with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
+I'm **Sim**, a passionate learner focused on **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Generative AI**.
 
-My goal is to build practical AI solutions that solve real-world problems while continuously improving my understanding of modern machine learning systems.
+I enjoy building practical AI applications, understanding how modern ML systems work, and continuously improving through hands-on projects.
 
-Currently, I am focused on:
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Open Source
-
+> *"Good things take time, but consistency makes them happen."*
 
 ---
 
-## Tech Stack
+# 🚀 Current Focus
+
+- **Retrieval-Augmented Generation (RAG)**
+- **Large Language Models (LLMs)**
+- **Deep Learning**
+- **Transformer Architecture**
+- **AI Agents**
+- **Open Source Contributions**
+- **GATE CSE 2027**
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-- Python
-- Java
-- C++
-- SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI & Machine Learning
+### AI & ML
 
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Pandas
-- NumPy
-- OpenCV
-- MediaPipe
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Google Colab
-- Streamlit
-- Flask
-- LangChain
-- Hugging Face
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
 
 ---
 
-## Upcoming Projects
+# 📌 Upcoming Projects
 
-Projects currently under development.
+### 🧠 Intelligent RAG Assistant
 
-### Retrieval-Augmented Generation (RAG)
+*A production-ready Retrieval-Augmented Generation system using vector databases, embedding models, and modern LLMs.*
 
-A production-ready document question-answering system using modern embedding models, vector databases, and Large Language Models.
-
-**Status:** Coming Soon
+**Status:** 🟢 **Coming Soon**
 
 ---
 
-### NutriPose Pro
+### 🧘 NutriPose Pro
 
-An AI-powered posture analysis system using computer vision for yoga pose correction and movement feedback.
+*An AI-powered yoga posture correction platform using computer vision and deep learning.*
 
-**Status:** Coming Soon
-
----
-
-### SPEKTRUM AI
-
-A real-time AI communication coach combining speech recognition, language models, and avatar-based interaction.
-
-**Status:** Coming Soon
+**Status:** 🟢 **Coming Soon**
 
 ---
 
-### AI Agents
+### 🎤 SPEKTRUM AI
 
-Autonomous AI workflows powered by modern LLM frameworks and tool calling.
+*A real-time AI communication coach powered by speech recognition and Large Language Models.*
 
-**Status:** Coming Soon
-
----
-
-## Currently Learning
-
-- Deep Learning
-- Transformer Architecture
-- LangChain
-- Vector Databases
-- AI Agents
-- System Design
-  
+**Status:** 🟢 **Coming Soon**
 
 ---
 
-## GitHub Statistics
+### 🤖 AI Agents
+
+*Autonomous multi-agent workflows built using modern LLM frameworks.*
+
+**Status:** 🟢 **Coming Soon**
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -130,15 +110,38 @@ Autonomous AI workflows powered by modern LLM frameworks and tool calling.
 
 ---
 
-## Connect
+# 🌱 Currently Learning
 
-- LinkedIn — www.linkedin.com/in/simransandal
-- Email — sks.aivisionary@gmail.com
+- **Deep Learning**
+- **LLM Fine-tuning**
+- **Vector Databases**
+- **LangChain**
+- **AI Agents**
+- **System Design**
+- **Advanced Machine Learning**
+
+---
+
+# 🤝 Connect
+
+<p align="center">
+
+<a href="www.linkedin.com/in/simransandal"
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="sks.aivisionary@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-*"Good things take time."*
+### <b><i>Building meaningful AI solutions through continuous learning.</i></b>
+
+<sub><i>Thanks for visiting my profile ⭐</i></sub>
 
 </p>
