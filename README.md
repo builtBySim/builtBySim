@@ -126,7 +126,7 @@ I enjoy building practical AI applications, understanding how modern ML systems 
 
 <p align="center">
 
-<a href="www.linkedin.com/in/simransandal"
+<a href="www.linkedin.com/in/simransandal">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
