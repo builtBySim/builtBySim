@@ -1,154 +1,144 @@
 <p align="center">
-  <img src="bannersim.png" width="100%" alt="Built By Sim Banner">
+  <img src="banner.jpeg" width="100%" alt="GitHub Banner"/>
 </p>
 
-<h1 align="center">Hi there 👋 I'm Sim</h1>
-
-<h3 align="center">
-Building intelligent solutions with AI, one project at a time.
-</h3>
+<h1 align="center">Hi, I'm Sim 👋</h1>
 
 <p align="center">
-I'm a Computer Science graduate passionate about Artificial Intelligence,
-Machine Learning, Deep Learning, and Generative AI.
+Computer Science Graduate • Artificial Intelligence • Machine Learning • Deep Learning
+</p>
 
-I enjoy transforming ideas into practical applications while continuously
-learning, experimenting, and contributing to open-source projects.
-
+<p align="center">
+Building intelligent systems through continuous learning and thoughtful engineering.
 </p>
 
 ---
 
-## 🌸 About Me
+## About
 
-```python
-class Sim:
+I am a Computer Science graduate with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
 
-    name = "Sim"
+My goal is to build practical AI solutions that solve real-world problems while continuously improving my understanding of modern machine learning systems.
 
-    role = "AI Developer"
+Currently, I am focused on:
 
-    interests = [
-        "Machine Learning",
-        "Deep Learning",
-        "Generative AI",
-        "Large Language Models",
-        "Retrieval-Augmented Generation",
-        "Computer Vision"
-    ]
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Open Source
 
-    motto = "Code • Learn • Build • Repeat"
-```
 
 ---
 
-## 🚀 Currently Exploring
-
-* 🤖 Deep Learning
-* 🧠 Transformers & LLMs
-* 🔍 Retrieval-Augmented Generation (RAG)
-* ⚡ PyTorch
-* 📚 Research Papers
-* 🌍 Open Source
-
----
-
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
-* Python
-* Java
-* C++
+- Python
+- Java
+- C++
+- SQL
 
-### AI & ML
+### AI & Machine Learning
 
-* TensorFlow
-* PyTorch
-* Scikit-Learn
-* Hugging Face
-* LangChain
-
-### Data
-
-* Pandas
-* NumPy
-* Matplotlib
-* Plotly
-
-### Frameworks
-
-* Streamlit
-* Flask
+- TensorFlow
+- PyTorch
+- Scikit-Learn
+- Pandas
+- NumPy
+- OpenCV
+- MediaPipe
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-* Linux
-* Google Colab
+- Git
+- GitHub
+- VS Code
+- Google Colab
+- Streamlit
+- Flask
+- LangChain
+- Hugging Face
 
 ---
 
-## 🌟 upcomming Projects
+## Upcoming Projects
 
-🧘 **NutriPose Pro**
+Projects currently under development.
 
-AI-powered Yoga Pose Correction System using MediaPipe and Computer Vision.
+### Retrieval-Augmented Generation (RAG)
 
----
+A production-ready document question-answering system using modern embedding models, vector databases, and Large Language Models.
 
-💬 **RAG Chatbot**
-
-Retrieval-Augmented Generation chatbot using LangChain, Hugging Face, and vector databases.
+**Status:** Coming Soon
 
 ---
 
-🧠 **Deep Learning Playground**
+### NutriPose Pro
 
-Implementations of CNNs, Transformers, and Neural Networks.
+An AI-powered posture analysis system using computer vision for yoga pose correction and movement feedback.
 
----
-
-📊 **Disease Prediction System**
-
-Machine Learning web application built using Streamlit.
+**Status:** Coming Soon
 
 ---
 
-## 📈 GitHub Stats
+### SPEKTRUM AI
+
+A real-time AI communication coach combining speech recognition, language models, and avatar-based interaction.
+
+**Status:** Coming Soon
+
+---
+
+### AI Agents
+
+Autonomous AI workflows powered by modern LLM frameworks and tool calling.
+
+**Status:** Coming Soon
+
+---
+
+## Currently Learning
+
+- Deep Learning
+- Transformer Architecture
+- LangChain
+- Vector Databases
+- AI Agents
+- System Design
+  
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BuiltBySim&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltBySim&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌱 Philosophy
+## Connect
 
-> Build consistently.
-> Stay curious.
-> Keep learning.
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn
-* 🤗 Hugging Face
-* 📧 Email
+- LinkedIn — www.linkedin.com/in/simransandal
+- Email — sks.aivisionary@gmail.com
 
 ---
 
 <p align="center">
 
-### 💜 Thanks for stopping by!
-
-⭐ If you enjoy my work, feel free to explore my repositories.
+*"Good things take time."*
 
 </p>
